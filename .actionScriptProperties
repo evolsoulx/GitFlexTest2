@@ -14,8 +14,8 @@
   </compiler>
   <applications>
     <application path="anothernew.mxml"/>
+    <application path="funstuff.mxml"/>
   </applications>
   <modules/>
   <buildCSSFiles/>
 </actionScriptProperties>
-
